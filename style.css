@@ -3,7 +3,7 @@
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(4, 1fr);
-    border: solid 4px red;
+    border: solid 4px palevioletred;
     height: 80vh;
 }
 
